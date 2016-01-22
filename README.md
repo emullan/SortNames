@@ -2,11 +2,12 @@
 An algorithm to sort names
 
 list = (list of names in no particular order)
-  IF position 1 in the name string is A, insert the name into a new variable called alpha
+
+  IF position 1 in the name string is A, insert the name into a new variable called alphabetical (alphabetical is a new variable with a list of names in alphabetical order
   
-  If position 1 in the name string is B, insert the name into alpha
+  If position 1 in the name string is B, insert the name into alphabetical
   
-  if position 1 in the name string is, insert the name into alpha
+  if position 1 in the name string is, insert the name into alphabetical
   
   ...
   ...
